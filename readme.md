@@ -1,4 +1,4 @@
-<h2 align="center">Docker Engine HTTP wrapper for nodejs</h2>
+<h2 align="center">Typescript Data sturcters playground</h2>
 <div align="center">
   <strong>
     Playground for DS implementations on typescript
